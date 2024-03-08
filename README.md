@@ -1,6 +1,4 @@
 # Attendance_system
-Certainly! Here's a suggested README.md file for your GitHub repository:
-
 ```
 # Automated Attendance System
 
@@ -8,7 +6,7 @@ Certainly! Here's a suggested README.md file for your GitHub repository:
 
 ## Overview
 
-The Automated Attendance System is a Python-based solution designed to streamline attendance tracking for educational institutions and organizations. Leveraging face recognition technology, this system automates the process of marking attendance by capturing live images from a webcam, identifying individuals, and logging attendance records in real-time.
+The Automated Attendance System is a Python-based solution designed to streamline attendance tracking for educational institutions and organizations. Leveraging face recognition technology, this system automates the process of marking attendance by capturing live images from a webcam, identifying individuals, and logging attendance records in real time.
 
 ## Features
 
